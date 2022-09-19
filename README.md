@@ -17,4 +17,4 @@ Live # **[Link](https://app.netlify.com/sites/project-14-cc/settings/general)**
 
 ---
 Screenshort:
-![screenshort](/screenshots/project-14.png)
+![screenshort](/14.png)
